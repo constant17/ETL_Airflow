@@ -1,5 +1,5 @@
 # Sparkify Airflow Data Pipeline
-### Udacity Data Engineering Nanodegree Project 5: Data Pipelines
+###  Data Pipeline to load JSON data from AWS S3 to Redshift
 
 ## Overview
 
